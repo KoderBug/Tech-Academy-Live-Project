@@ -1,7 +1,7 @@
 # Live Project
 ## Introduction
  
-One of the most beneficial projects that I worked on at the Tech Academy was the Live Project where I worked with a team of about 8 students.  The project I worked on was an employee tracking system.  The application allows users to clock in and out, set and view schedules, request time off, and provides a simple messaging capablity between administrators and employees.  The development team used Github to track changes to the application which was built using ASP.NET MVC C# with a code first Entity Framework Database.  The UI is bootstrap 3 with calendars based on the FullCalendar Library.  
+One of the most beneficial projects that I worked on at the Tech Academy was the Live Project where I worked with a team of about 8 developers.  The project I worked on was an employee tracking system.  The application allows users to clock in and out, set and view schedules, request time off, and provides a simple messaging capablity between administrators and employees.  The development team used Github to track changes to the application which was built using ASP.NET MVC C# with a code first Entity Framework Database.  The UI is bootstrap 3 with calendars based on the FullCalendar Library.  
 
 This application was a work in progress being built by students with many of the features not implemented.  The project was managed under the Agile methodology using Dev Ops.  I was responsible for choosing User Stories to work on from the Product Backlog.  Daily stand ups were held on Google Hangouts which accommodated remote students.  I worked on this project remotely as the main office was in Portland, OR while I was in Colorado.  I used Slack to communicate with the project team members.
 
